@@ -1,7 +1,4 @@
-﻿using WTFNumber;
-
-var a = int.Parse("0123");
-var b = a;
+using WTFNumber;
 
 var wtfn = new WTFN();
 wtfn.DoWTF();
